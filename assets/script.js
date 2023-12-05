@@ -3,6 +3,7 @@
   
     function updateBlockStatus() {
       var currentHour = dayjs().hour();
+      //var currentHour = 12;
   
       $(".time-block").each(function () {
         var blockHour = parseInt($(this).attr("id").split("-")[1]);
