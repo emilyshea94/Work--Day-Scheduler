@@ -4,7 +4,7 @@ For this challenge I was tasked with modifying html and adding javascript to mak
 when i click on a time slot box (like 9am) it lets me log an entry, I then click the "save" button 
 when i refersh the page that entry still shows in the "9AM" slot.
 I started withe main code that only had hours 9-11am, and added 12-5pm in the javascript. 
-I ran into an issue with the "past" "present" and "future" colors showing up on the scheduler.
+I ran into an issue with the "past" "present" and "future" colors showing up on the scheduler. So I changed the times to military time.
 When I modified the java code to save the event thats added to the scheduler it made the colors obsolete. 
 I learned a lot about dayjs while making this code.
 
@@ -12,6 +12,10 @@ I learned a lot about dayjs while making this code.
 
 Here is the website with the events added
 ![Work-Day-Scheduler](https://github.com/emilyshea94/Work--Day-Scheduler/assets/144382382/77a63f48-2f11-41bb-bf49-1aaa4716921b)
+
+Here is the website when I put the current time as the variable
+![Work-Day-Scheduler (1)](https://github.com/emilyshea94/Work--Day-Scheduler/assets/144382382/4196db3d-6c31-4195-abab-3bcf70769a67)
+
 
 
 #Credits: I used some code from stack overflow and got some guideance from a friend
