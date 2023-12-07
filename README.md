@@ -8,7 +8,7 @@ I ran into an issue with the "past" "present" and "future" colors showing up on 
 When I modified the java code to save the event thats added to the scheduler it made the colors obsolete. 
 I learned a lot about dayjs while making this code.
 
-##Usage
+## Usage
 Added Java-Script for the scheduling function to work 
 
 Here is the website with the events added
@@ -22,7 +22,7 @@ Here is the website when I put the current time as the variable
 ##Credits: I used some code from stack overflow and got some guideance from a friend
 Starter code from crispy-octo-meme: https://github.com/coding-boot-camp/crispy-octo-meme
 
-##License 
+## License 
 The MIT License (MIT)
 
 Copyright (c) Emily
