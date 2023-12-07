@@ -19,7 +19,7 @@ Here is the website when I put the current time as the variable
 
 
 
-##Credits: I used some code from stack overflow and got some guideance from a friend
+## Credits: I used some code from stack overflow and got some guideance from a friend
 Starter code from crispy-octo-meme: https://github.com/coding-boot-camp/crispy-octo-meme
 
 ## License 
