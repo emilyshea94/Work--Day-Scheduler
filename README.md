@@ -8,7 +8,8 @@ I ran into an issue with the "past" "present" and "future" colors showing up on 
 When I modified the java code to save the event thats added to the scheduler it made the colors obsolete. 
 I learned a lot about dayjs while making this code.
 
-
+##Usage
+Added Java-Script for the scheduling function to work 
 
 Here is the website with the events added
 ![Work-Day-Scheduler](https://github.com/emilyshea94/Work--Day-Scheduler/assets/144382382/77a63f48-2f11-41bb-bf49-1aaa4716921b)
@@ -18,12 +19,13 @@ Here is the website when I put the current time as the variable
 
 
 
-#Credits: I used some code from stack overflow and got some guideance from a friend
+##Credits: I used some code from stack overflow and got some guideance from a friend
+Starter code from crispy-octo-meme: https://github.com/coding-boot-camp/crispy-octo-meme
 
-#License 
+##License 
 The MIT License (MIT)
 
-Copyright (c) 
+Copyright (c) Emily
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
